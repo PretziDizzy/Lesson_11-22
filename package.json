@@ -1,0 +1,24 @@
+{
+  "name": "Lesson_11-22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pet.js",
+  "scripts": {
+    "test": "jest",
+    "test:report": "jest --coverage=true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PretziDizzy/Lesson_11-22.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PretziDizzy/Lesson_11-22/issues"
+  },
+  "homepage": "https://github.com/PretziDizzy/Lesson_11-22#readme",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
